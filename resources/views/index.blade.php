@@ -18,7 +18,7 @@
     <div class="grid grid-cols-2 gap-4">
         <div class="ml-20 text-left text-white p-4">
             <p>Soy full-stack developer en entorno web, también soy programadora de videojuegos.</p>
-            <p>Domino varios lenguajes de programación entre los que se incluye: </p>
+            <p>Domino varios lenguajes de programación entre los que se incluye:a </p>
             <ul class="list-disc ml-4">
                 <li>C#</li>
                 <li>Java</li>
